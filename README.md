@@ -11,7 +11,7 @@ ex: from black to red, and then from red to green, and so forth.
 
 Compilation
 ============
-simply click use 'make' command.
+simply use 'make' command.
 make
 
 or else,
